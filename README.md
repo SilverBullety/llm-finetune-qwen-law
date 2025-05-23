@@ -8,6 +8,8 @@
 通过网盘分享的文件：weights.zip
 链接: https://pan.baidu.com/s/13RUzhovR2UXZFFNMqxoD1A?pwd=n5se 提取码: n5se 
 --来自百度网盘超级会员v1的分享
+(刚发现这一版的weights好像忘记保存tokenizer了，正在重新上传一版... 
+用这一版的话可能得手动下一下qwen-7b的tokenizer:https://huggingface.co/Qwen/Qwen-7B, 下载tokenizer_config.json、tokenization_qwen.py、qwen.tiktoken即可使用)
 
 #### 安装教程
 
