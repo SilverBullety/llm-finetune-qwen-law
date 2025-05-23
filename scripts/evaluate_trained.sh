@@ -1,0 +1,1 @@
+python evaluate.py --model_path ./sft_results/20250512_1659 &> ./logs/evaluate_trained.txt
